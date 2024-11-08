@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFilzenApp", "CFilzenApp.csproj", "{ECF6F446-A35B-430D-B1F3-6AB3FE90B0E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFilzenApp", "CFilzenApp.csproj", "{3368B584-A765-4D3C-BEB5-EB70A2BBF26A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ECF6F446-A35B-430D-B1F3-6AB3FE90B0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECF6F446-A35B-430D-B1F3-6AB3FE90B0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECF6F446-A35B-430D-B1F3-6AB3FE90B0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECF6F446-A35B-430D-B1F3-6AB3FE90B0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3368B584-A765-4D3C-BEB5-EB70A2BBF26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3368B584-A765-4D3C-BEB5-EB70A2BBF26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3368B584-A765-4D3C-BEB5-EB70A2BBF26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3368B584-A765-4D3C-BEB5-EB70A2BBF26A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {465613AA-7B9E-4272-833A-11C0A752AF64}
+		SolutionGuid = {6010019C-9DAD-474D-B0EC-CEF21C6537BB}
 	EndGlobalSection
 EndGlobal
