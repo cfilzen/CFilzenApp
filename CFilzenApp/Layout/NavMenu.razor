@@ -1,6 +1,7 @@
 ﻿@* Note
 Make sure to reference bootstrap.bundle.js in the App.razor file or the toggle won't work.
 *@
+
 <nav class="navbar navbar-expand">
     <div class="container-fluid">
         <div class="col">
@@ -9,18 +10,18 @@ Make sure to reference bootstrap.bundle.js in the App.razor file or the toggle w
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="col-2v px-1">
+        <div class="col-2 px-1">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-lg-0">
+            <ul class="navbar-nav me-auto mb-lg-0 px-0">
                 <li class="nav-item">
-                        <a class="nav-link mx-2" href="#">Just Stuff</a>
+                        <div class="text-center"><a class="mx-2 nav-link" href="#">Just Stuff</a></div>
                 </li>
                 <li class="nav-item dropdown ">
-                        <a class="nav-link dropdown-toggle mx-3" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Projects
-                    </a>
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projects</a>
                     <ul class="dropdown-menu">
-                        <li><strong>Coming Soon</strong></li>
+                        <li>
+                            <div class="text-center"><strong>Coming Soon</strong></div>
+                        </li>
                     </ul>
                 </li>
             </ul>
@@ -29,7 +30,7 @@ Make sure to reference bootstrap.bundle.js in the App.razor file or the toggle w
         <div class="col-3">
             <form class="d-flex" role="search">
                 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit">Search</button>
+                <button class="btn btn-outline-light" type="submit">Search</button>
             </form>
         </div>
     </div>

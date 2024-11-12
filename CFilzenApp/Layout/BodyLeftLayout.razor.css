@@ -1,3 +1,8 @@
 ﻿.left-nav-header {
     background-color: rgba(240, 137, 137);
 }
+
+.nav-div:hover {
+    background-color: lightgray;
+    color: red;
+}
