@@ -167,10 +167,13 @@ const PROJECTS = [
   }
 ]
 const AI_NOTES = [
+  "I have a facination with AI-assisted development, and I have been using Claude Code for a year.",
   "I use Claude daily to write clean, safe, efficient code and to suggest improvements to existing code.",
   "I am learning to set up repositories and skill files so Claude performs better and works more efficiently.",
-  "I used Claude as a coding assistant to build Slack commands that call a LaunchDarkly API to hide/show maintenance and outage banners to associates using our payments website.",
-  "I have also used Claude as a coding assistant while building a card-tokenization service to support a migration.",
+  "I have used Claude as a coding assistant to build Slack commands that call a LaunchDarkly API to hide/show maintenance and outage banners to associates using our payments website.",
+  "I have used Claude as a coding assistant while building a card-tokenization service to support a migration.",
+  "I have used Claude skills to help performing package updates that propagated into code updates across multiple applications.",
+  "I have used Claude to create KQL queries for Application Insights to monitor as well as posting Slack alerts for statuses and incidents.",
   "I keep up with Claude docs. I also watch videos and follow community discussions daily."
 ]
 const SUMMARY = "Senior software engineer with 25+ years of experience building backend and server-side applications on .NET, SQL Server, and Azure. Recent work centers on payment systems, automated CI/CD, and AI-assisted development with Claude Code. I turn business requirements into clear technical designs, and I put a lot of weight on approachability and empathy in team work."
